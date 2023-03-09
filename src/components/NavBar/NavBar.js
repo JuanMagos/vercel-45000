@@ -21,7 +21,7 @@ const NavBar = () => {
               className={({ isActive }) => (isActive ? 'active' : 'inactive')}
               to="/category/monitores"
             >
-              Monitores
+              Monitoressssss
             </NavLink>
           </li>
           <li>
