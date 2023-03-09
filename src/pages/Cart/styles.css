@@ -1,0 +1,16 @@
+.cartConatiner {
+  display: flex;
+  flex-direction: row;
+}
+.cartProduct {
+  display: flex;
+  flex-direction: row;
+  width: 600px;
+  justify-content: space-between;
+}
+.cartForm {
+  display: flex;
+  flex-direction: column;
+  margin-left: 25px;
+  margin-top: 30px;
+}

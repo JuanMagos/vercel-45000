@@ -1,0 +1,24 @@
+.navbar {
+  background-color: aqua;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.lista {
+  display: flex;
+  flex-direction: row;
+}
+
+.lista li {
+  margin-left: 20px;
+}
+
+.active {
+  color: green;
+}
+
+.inactive {
+  color: rgb(230, 132, 227);
+}
